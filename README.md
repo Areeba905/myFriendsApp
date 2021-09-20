@@ -8,3 +8,5 @@ In this application you can do the following:
 3. Delete your friends
 4. Update your friends
 5. Sign in, Sign up, Sign out
+6. Edit your own profile
+
